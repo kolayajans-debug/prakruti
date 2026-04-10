@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#0C0B09"/>
+  <g transform="translate(256,240)">
+    <!-- Lotus petals -->
+    <ellipse cx="0" cy="-20" rx="38" ry="85" fill="none" stroke="#B8956A" stroke-width="3" opacity="0.6"/>
+    <ellipse cx="0" cy="-20" rx="38" ry="85" fill="none" stroke="#B8956A" stroke-width="3" opacity="0.6" transform="rotate(60)"/>
+    <ellipse cx="0" cy="-20" rx="38" ry="85" fill="none" stroke="#B8956A" stroke-width="3" opacity="0.6" transform="rotate(-60)"/>
+    <ellipse cx="0" cy="-20" rx="38" ry="85" fill="none" stroke="#B8956A" stroke-width="3" opacity="0.6" transform="rotate(120)"/>
+    <ellipse cx="0" cy="-20" rx="38" ry="85" fill="none" stroke="#B8956A" stroke-width="3" opacity="0.6" transform="rotate(-120)"/>
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="12" fill="#B8956A"/>
+  </g>
+  <!-- Brand text -->
+  <text x="256" y="410" text-anchor="middle" fill="#B8956A" font-family="serif" font-size="52" font-weight="400" letter-spacing="2">prakruti</text>
+</svg>
